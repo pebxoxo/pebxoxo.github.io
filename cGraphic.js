@@ -36,7 +36,7 @@ function draw() {
  textSize(windowWidth/75);
  text(numerals[inc], windowWidth/50, windowHeight/24)
     
- if(frameCount%5 == 0){
+ if(frameCount%4 == 0){
      
      colMov = random(0, 15)
         if(inc == 35){

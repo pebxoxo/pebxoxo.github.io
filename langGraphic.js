@@ -32,7 +32,7 @@ function draw() {
  text(numerals2[inc], windowWidth-40, windowHeight-30)
  text(numerals3[inc], windowWidth/50, windowHeight-30)
     
- if(frameCount%4 == 0){
+ if(frameCount%3 == 0){
      
      colMov = random(0, 15)
         if(inc == 9){
