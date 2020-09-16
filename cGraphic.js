@@ -1,3 +1,8 @@
+//“Now then, I tell you the truth: Three more kings will arise in Persia, and then a fourth, who will be far richer than all the others. When he has gained power by his wealth, he will stir up everyone against the kingdom of Greece. 
+//
+//This file contains the image of carrion, of rotting flesh, accompanied by a red colour ... for obvious reasons.
+//Used in carrion page
+
 var canvas;
 var img;
 var colMov; 

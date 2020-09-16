@@ -1,3 +1,7 @@
+//In the third year of Cyrus king of Persia, a revelation was given to Daniel (who was called Belteshazzar). Its message was true and it concerned a great war. The understanding of the message came to him in a vision.
+//
+//This js file is used as the background for the arabic language page, iterating through the numbers much like the other numeral pages.
+
 var canvas;
 var img;
 var colMov; 

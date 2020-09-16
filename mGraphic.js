@@ -1,3 +1,7 @@
+//Then the king of the North will invade the realm of the king of the South but will retreat to his own country. 
+//
+//This generates the main mushroom graphics page
+
 var canvas;
 var img;
 var colMov; 

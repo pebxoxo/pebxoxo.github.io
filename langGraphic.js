@@ -1,3 +1,7 @@
+//“One from her family line will arise to take her place. He will attack the forces of the king of the North and enter his fortress; he will fight against them and be victorious. 
+//
+//This js file is used as the background for the main language page, and it contains all three used language scripts in the website iterating through the numbers much like the other numeral pages.
+
 var canvas;
 var img;
 var colMov; 

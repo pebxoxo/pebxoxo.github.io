@@ -1,3 +1,7 @@
+//And in the first year of Darius the Mede, I took my stand to support and protect him
+//
+//This page contains an empty purple page with the roman numerals, to accompany the old english john cage poem page
+
 var canvas;
 var img;
 var colMov; 

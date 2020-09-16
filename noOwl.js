@@ -1,3 +1,7 @@
+//Then the king of the South will march out in a rage and fight against the king of the North, who will raise a large army, but it will be defeated. 
+//
+//This page is for when the encryption puzzle gets answered incorrectly, and the owl suddenly disappears from the perch of the homepage
+
 var canvas;
 var img = [];
 var numerals = ['i.', 'ii.', 'iii.'];

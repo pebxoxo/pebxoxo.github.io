@@ -1,3 +1,7 @@
+//“In those times many will rise against the king of the South. Those who are violent among your own people will rebel in fulfillment of the vision, but without success. 
+//
+//This page produces a psychedelic style vulture background effect, much like the one used in gateway.html
+
 var canvas;
 var img = [];
 var numerals = ['i.', 'ii.', 'iii.', 'iv.', 'v.', 'vi.', 'vii.', 'viii.', 'ix.', 'x.', 'xi.', 'xii.', 'xiii.', 'xiv.', 'xv.', 'xvi.', 'xvii.', 'xviii.', 'xix.', 'xx.', 'xxi.', 'xxii.', 'xxiii.', 'xxiv.', 'xxv.', 'xxvi.', 'xxvii.', 'xxviii', 'xxix.', 'xxx.', 'xxxi.', 'xxxii.', 'xxxiii.', 'xxxiv.', 'xxxv.', 'xxxvi.'];

@@ -1,3 +1,7 @@
+//He will also seize their gods, their metal images and their valuable articles of silver and gold and carry them off to Egypt. For some years he will leave the king of the North alone.
+//
+//This js file is much like the the hebrew language page, iterating through the numbers much like the other numeral pages. However it also has a faded cabalistic symbol.
+
 var canvas;
 var img;
 var colMov; 

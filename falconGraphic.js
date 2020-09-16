@@ -1,3 +1,7 @@
+//After he has arisen, his empire will be broken up and parceled out toward the four winds of heaven. It will not go to his descendants, nor will it have the power he exercised, because his empire will be uprooted and given to others.
+//
+//This file contains the distorted image of a falcon for use on the falcony page
+
 var canvas;
 var img;
 var colMov; 

@@ -1,3 +1,7 @@
+//“The king of the South will become strong, but one of his commanders will become even stronger than he and will rule his own kingdom with great power. 
+//
+//This page corresponds to the veiled image of the end times, which can be found in theend.html and in thebeginning.html
+
 var canvas;
 var img;
 var colMov; 
@@ -27,7 +31,7 @@ function setup() {
 
 function draw() {
  
- //rectMode(CENTER);
+    
  image(img, 0, 0, windowWidth, windowHeight)
  fill(0 + colMov, 244);
  rect(0, 0, windowWidth, windowHeight);

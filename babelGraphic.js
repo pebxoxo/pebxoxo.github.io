@@ -1,3 +1,7 @@
+//At that time I, Daniel, mourned for three weeks. 
+//
+//This page produces a recreation of a whole book from Borge's famous library of Babel, 410 pages of a possible combination of 25 total characters (or lack thereof). Used in the various library of sbabel pages
+
 var canvas;
 var colMov; 
 var letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'l', 'm', 'n', 'o', 'p', 'r', 's', 't', 'u', 'v', 'y', 'z', '.', ',', ' ', ' '];
